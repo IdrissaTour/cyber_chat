@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78609264503",
+    "project_id": "cyber-chat-c338e",
+    "storage_bucket": "cyber-chat-c338e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78609264503:android:a00dc1a7110b0c8940fb72",
+        "android_client_info": {
+          "package_name": "com.example.cyber_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78609264503-c3vt213ada8gm38asq9o0lu7vlde872h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hPc7UZAETMR0q5TxcagNa7qsmGr9ARk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78609264503-c3vt213ada8gm38asq9o0lu7vlde872h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
